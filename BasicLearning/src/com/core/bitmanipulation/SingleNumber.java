@@ -16,6 +16,6 @@ public class SingleNumber{
 		Scanner sc=new Scanner(System.in);	
 		int N=sc.nextInt();
 		ArrayList<Integer> A=new ArrayList<Integer>();
-		
+		//change
 	}
 }
